@@ -38,6 +38,12 @@
   }
 }
 
+.reslink { 
+ a:link {font-size:16px; color:White}
+ a:visited {font-size:16px; color:White}
+ a:hover {font-size:16px; color:#B0E0E6}
+}
+
 .min-height-full {
   min-height: 100vh;
 }
