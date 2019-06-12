@@ -1,4 +1,0 @@
-2 years experience with Java 8+.
-Experience with Spring Framework (Core, Boot, Data, MVC, Security).
-Experience with RESTful web services. Scrum development experience.
-Good knowledge of basic data structures and design patterns, as well as the ability to apply them in practice.
