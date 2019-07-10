@@ -46,11 +46,21 @@ social_media:
 
 topics:
 - name: Java
-  web_url: https://github.com/topics/java
+  web_url: https://www.oracle.com/technetwork/java/javase/downloads/index.html
   image_url: https://image.flaticon.com/icons/png/512/226/226777.png
 - name: Spring
-  web_url: https://spring.io/projects
+  web_url: https://spring.io
   image_url: https://github.com/spring-projects/spring-framework/blob/master/src/docs/asciidoc/images/spring-framework.png?raw=true
 - name: Hazelcast
-  web_url: https://github.com/hazelcast/hazelcast
+  web_url: https://hazelcast.com
   image_url: https://avatars3.githubusercontent.com/u/1453152?s=200&v=4
+- name: Apache Kafka
+  web_url: https://kafka.apache.org
+  image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png
+- name: Neo4j
+  web_url: https://neo4j.com
+  image_url: https://aivamastu.com/wp-content/uploads/2018/11/Neo4j.png
+- name: Apache Cassandra
+  web_url: http://cassandra.apache.org
+  image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png
+  
