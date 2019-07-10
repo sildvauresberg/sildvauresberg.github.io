@@ -47,7 +47,7 @@ social_media:
 topics:
 - name: Java
   web_url: https://github.com/topics/java
-  image_url: https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png
+  image_url: https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png
 - name: Spring
   web_url: https://spring.io/projects
   image_url: https://github.com/spring-projects/spring-framework/blob/master/src/docs/asciidoc/images/spring-framework.png?raw=true
