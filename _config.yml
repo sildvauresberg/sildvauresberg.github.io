@@ -59,7 +59,7 @@ topics:
   image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png
 - name: Neo4j
   web_url: https://neo4j.com
-  image_url: https://aivamastu.com/wp-content/uploads/2018/11/Neo4j.png
+  image_url: https://go.neo4j.com/rs/710-RRC-335/images/neo4j_logo_globe.png
 - name: Apache Cassandra
   web_url: http://cassandra.apache.org
   image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png
