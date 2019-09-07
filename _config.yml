@@ -57,3 +57,5 @@ topics:
 - name: GraphQL
   web_url: https://graphql.org
   image_url: https://graphql.org/img/logo.svg
+
+theme: jekyll-theme-cayman
